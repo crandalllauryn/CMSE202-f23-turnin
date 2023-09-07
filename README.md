@@ -1,2 +1,3 @@
 # CMSE202-f23-turnin
-CMSE projects
+Lauryn Crandall
+Section 3
